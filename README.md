@@ -6,7 +6,7 @@ Me Time is a social media platform designed to provide users with a safe and non
 To get Me Time running on your development environment, follow these steps:
 1.	Install XAMPP or an equivalent local development environment.
 2.	Launch XAMPP and start the Apache and MySQL services.
-3.	Create a new database for Me Time in your preferred database management system (e.g., MySQL, PostgreSQL).
+3.	Create a new database for Me Time in your preferred database management system (e.g. MySQL).
 4.	Rename the .env.example file to .env in the project root directory.
 5.	Open the .env file and update the following variables:
 •	Set this to the name of the database you created for Me Time.
